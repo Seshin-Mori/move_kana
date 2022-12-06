@@ -12,7 +12,7 @@ const charData = {};
 const charNum = 7;
 
 // 文字の大きさ
-const charSize = 20;
+const charSize = 60;
 
 // 初期化処理
 function init() {
